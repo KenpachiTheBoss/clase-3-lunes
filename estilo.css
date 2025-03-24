@@ -23,8 +23,24 @@ header{
     color: rgba(88,195,227);
     padding: 20px 0;
     border-radius: 8px 8px 0 0;
-    background-image: url('./imagen/file.jpg');
+    background-image: url('./imagen/5x8i3raukcn51.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
+}
+
+header figure img{
+    border-radius: 50%;
+    border: 5px solid #215cae;
+    box-shadow: 0px 0px 10px;
+}
+
+header h1{
+    font-size: 2em;
+    margin-top: 10px;
+}
+
+header h2{
+    font-size: 1.2em;
+    opacity: 0.7;
 }
